@@ -1,0 +1,18 @@
+
+
+
+# start run server
+python manage.py 0:8000
+
+
+
+
+# connect Django web
+172.19.242.152:8000
+
+
+# connect Django admin (admin / qwer!@34)
+172.19.242.152:8000/admin
+
+
+
